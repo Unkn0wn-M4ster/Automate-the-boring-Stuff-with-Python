@@ -1,0 +1,36 @@
+1) True and False with a capital T And F
+2) NOT AND OR
+3)Let 1 be True And 0 be False
+OR TABLE
+	1 OR 1 = 1
+	1 Or 0 = 1
+	0 or 1 = 1
+	0 or 0 = 0
+AND TABLE
+	1 AND 1 = 1
+	1 AND 0 = 0
+	0 AND 1 = 0
+	0 AND 0 = 0
+NOT TABLE
+	NOT 1 = 0
+	NOT 0 = 1
+4)1-False
+  2-False
+  3-True
+  4-False
+  5-False
+  6-True
+5)<,>,>=,<=,==,!=
+6)Equal to operator is == which is used for comparision while as = is a assignment operator used to give a value to a variable 
+7)Condition are given to check for things generally whether the given thing tends to True or to False
+8)	First block is the checking of the spam==10
+	Second Block is the checking of spam > 5
+	Third Block is the else statement which prints ham
+9)in another file 
+10)ctrl c or in some instances ctrl z i believe
+11)if a break keyword is put in the loop  it leaves the loop and continues to the main block whearas in continue it just goes to the next iterating value in the loop
+12) They are all the same they iterate from 0 to 9 
+14)import spam then spam.bacon
+	or from spam import bacon and use it normally ig
+
+Extra Credit abs is used to give the absoulte value of the given variable or the number 

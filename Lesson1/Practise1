@@ -1,0 +1,13 @@
+1)  Operators are (*,-,/,+) And Values are "hello", -8.8, and 5'
+2) spam without quotes is a varible and 'spam' with quotes is a string
+3) String int float bool
+4)expressions are the basic programming instructions which genrally consists of operators and operands which can be derived to a small value
+5)Assignment operators are used to assign or initialize a variable whereas a instruction uses variables(given by assignemnt operators)  or values to reduce to small value or a single output
+6)Nothing happens to the variable bacon as such as it is not being changed rather an expression bacon+1 is being processed
+7)spamspamspam -1Concatination   spamspamspam- 2Multiplication or replication
+8)a variable name cannot start with number meanwhile eggs has no number of invalid operator starting it
+9)int() or  float() or str()
+10)you cannot concatenate a string with a number like that . you would have to use str(99) to add
+
+
+Extra credit question: round() function returns a float number with specified decimal values
