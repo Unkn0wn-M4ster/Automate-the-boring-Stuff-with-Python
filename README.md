@@ -3,14 +3,15 @@
 here we go again
 | Task List | Description 
 | :-:       | :-:         
-| [Lesson00](https://github.com/Unkn0wn-M4ster/)   | Installing Ubuntu |
-| [Lesson01](https://github.com/Unkn0wn-M4ster/)   | Terminal Wizard | 
-| [Lesson02](https://github.com/Unkn0wn-M4ster/)   | Lessgo Hugo| 
-| [Lesson03](https://github.com/Unkn0wn-M4ster/)   | Hello, World | 
-| [Lesson04](https://github.com/Unkn0wn-M4ster/)   | Competitive Programming | 
-| [Lesson05](https://github.com/Unkn0wn-M4ster/)   | Hypertext Mockup Language | 
-| [Lesson06](https://github.com/Unkn0wn-M4ster/)   | Cricket Vault | 
-| [Lesson07](https://github.com/Unkn0wn-M4ster/)   | AK-47℃ | 
-| [Lesson08](https://github.com/Unkn0wn-M4ster/)   | Poke-Search! | 
-| [Lesson09](https://github.com/Unkn0wn-M4ster/)   | Poke-Search! | 
+| [Lesson01](https://github.com/Unkn0wn-M4ster/)   | Python Basics |
+| [Lesson02](https://github.com/Unkn0wn-M4ster/)   | Flow Control | 
+| [Lesson03](https://github.com/Unkn0wn-M4ster/)   | Functions | 
+| [Lesson04](https://github.com/Unkn0wn-M4ster/)   | Lists | 
+| [Lesson05](https://github.com/Unkn0wn-M4ster/)   | Dictionaries and Structuring Data| 
+| [Lesson06](https://github.com/Unkn0wn-M4ster/)   | Manipulating Strings| 
+| [Lesson07](https://github.com/Unkn0wn-M4ster/)   | Pattern Matching with Regular Expressions| 
+| [Lesson08](https://github.com/Unkn0wn-M4ster/)   | Input Validation | 
+| [Lesson09](https://github.com/Unkn0wn-M4ster/)   | Reading and writing Files| 
+| [Lesson10](https://github.com/Unkn0wn-M4ster/)   | Organizing Files| 
+| [Lesson11](https://github.com/Unkn0wn-M4ster/)   | Debugging| 
 
