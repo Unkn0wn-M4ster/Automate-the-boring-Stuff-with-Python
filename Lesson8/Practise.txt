@@ -1,0 +1,7 @@
+1)No pyinputPlus doesnt come with the python standard lib
+2)Its common convention nothing madatory i believe
+3)The first takes only integer values from the user while the latter takes floating points
+4)response=py.ip.inputnum('enter num',min=0,lessthan=100)
+5)you pass the parameter allowregex= and blockregex=
+6)it wil lgive a retrylimit exception
+7)It will print hello at the end of it all if all blanks are entered

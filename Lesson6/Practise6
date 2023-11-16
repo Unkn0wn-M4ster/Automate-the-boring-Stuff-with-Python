@@ -1,0 +1,18 @@
+1)escape characters are characters which help help putting in things which are normally not possible to put as strings such 
+2)\n means newline \t means for tab space
+3)if u put want to put \ u can put r  before it all u can put it  so it call gets taken as raw strings
+4)As the string is incapsulated inside Double quotes unless another double quotes occurs inside its all valid
+5)If you dont wanna use \n u can probably use ''' ''' can put it in multiple lines
+6)
+    a)e
+    b)Hello
+    c)Hello
+    d)lo, world!
+7)
+    a)HELLO
+    b)True
+    c)hello
+8)['remember',',','remember','the','fifth','of','November']
+9)'There-can-be-only-one.'
+10)rjust ljust center
+11)using rstrip or lstrip or strip in general

@@ -1,0 +1,18 @@
+1)Creates an empty list 
+2)If u wanted to interchange the value you would use list[2]="hello"
+else you would use insert function to put it in the third position
+3)it would evaluate to d as the equation gives spam[33//11]
+4)also d 
+5)a,b would be printed ['a','b']
+6)index of first cat is one hence 1
+7)will add 99 to the back of the list 
+8)will remove the first instance of cat [3.14,11, 'cat', True].
+9)"+" concatenates to the list whereas the "*" replicates it 
+10)append adds to the end of the list wheres as insert can be used to put at a certain position
+11)list.pop() list.remove()
+12)both can be sliced indexed concatenated replicated and in both len can be used 
+13)lists are mutable in nature while tuples are not
+14)tup=(42,)
+15)tuple form of a list value,tuple(list), and list form of a tuple value,list(tuple)
+16)con tain references to the list vakues
+17)copy.copy() can be used to make a copy of a mutable value like lists. copy.deepcopy() used if the list contains inner lists which need to be copied too.

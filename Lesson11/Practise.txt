@@ -1,0 +1,16 @@
+1)assert spam<10
+2)eggs="EZ" bacon="Ez" a=var1.upper() b=var2.upper() assert a==b
+3) assert 1==2
+4) import logging
+    logging.basicConfig(level=logging.DEBUG, format=' %(asctime)s - %(levelname)s - %(message)s')
+5)import logging
+    logging.basicConfig(filename='myProgramLog.txt', level=logging.DEBUG, format=' %(asctime)s - %(levelname)s - %(message)s')
+6)warning,error,critical,info,debug
+7) logging.disable() function, with a suitable logging level, can be used to disable logging messages for a program.
+8) As removing logging is easier than removing all the print statment you would write in your program
+9)Step In- cause the debugger to execute the next line of code and then pause again.
+  Step Over-Clicking the Step Over button will execute the next line of code, similar to the Step In button. However, if the next line of code is a function call, the Step Over button will “step over” the code in the function. 
+  Step Out - Clicking the Step Out button will cause the debugger to execute lines of code at full speed until it returns from the current function.
+10)Only on reaching a breakpoint or at termination of code
+11)forces the debugger to pause whenever the program execution reaches a particular line.
+12)clicking on the editor and setting a breakpoint which can be confirmed if red dot occurs

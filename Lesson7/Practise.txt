@@ -1,0 +1,23 @@
+1)regex .compile 
+2)raw strings are often used while creating regex objects so as to handle backspaces mostly
+3)its checks for the given regex expression in the given strings
+4)you get the matched strings from mathobject.group() function
+5)Group 0 here is the whole number and group 1 is the area code group2 here is the rest of the numbers
+6)you would put a backspace in front of it indicating that its not an escape character
+7)if     you have compiled doesnt have groups in it it gives you a list of strings if it does happen to have a group it gives you a list of tuples
+8)| means pipe it also stands as an and at times
+9)? makes the given argument before it an optional often
+10) + to be trues needs the arguement before it to be atleast be there once * can be either not there or there multiple times
+11){3} only consider the word but {3,5} makes it like a range from which will consider 3 4 5
+12)\d stands for digits from 0-9 \w stands for letter or words and \s for space character
+13)\D looks for any character which isnt 0-9 \W any charcter that is not a letter or underscore character and \S any charcter that is not a space tab or newline
+14).* does a greedy and takes all the words it can find after the given text whereas .*? does a non greedy version of the same
+15)re.compile([0-9a-z])
+16)while writing the compile statemnt after writing what ur looking for you add ,re.I which makes it case insensitive
+17). is used as wildcard character that is it will try matching any character with the given word in it checks and matches
+18) It will probably return X drummbers,X pipers,five rings,X hens
+19)When you pass re.VERBOSE as the second argument to re.compile(), it allows you to write regular expressions in a more readable and organized manner by ignoring whitespace and adding comments.
+20)
+21)req=re.compile(r'^[A-Z][a-z]+\s+Watanabe')
+22)re.compile('^(Alice|Bob|Carol)\s+(eats|pets|throws)\s+(apples|cats|baseball)', re.I)
+

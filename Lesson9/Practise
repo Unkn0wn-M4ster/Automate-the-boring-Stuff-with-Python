@@ -1,0 +1,15 @@
+1)Relative path describes the location of a file relative to the cwd
+2)absoulte path starts with a the root location
+3)It evaluates to C:/Users/Al.
+4)Error as both of these must be path objects for it to be accepted 
+5)os.getcwd() path of the cwd
+ -os.chdir() to change cwd
+6)./ is current directory ../ is parent directory
+7)dir name is C:\bacon\eggs\ base name is spam.txt
+8)r-read file
+  w-write to file
+  a-appending to file
+9)All data gets truncated and pointer starts from the start of the file
+10)read()-reads the whole file as one object together
+   readlines()-makes a list of all the lines in the given file
+11)Stack or maybe dictionary

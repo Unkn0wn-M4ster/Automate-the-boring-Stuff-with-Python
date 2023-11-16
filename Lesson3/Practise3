@@ -1,0 +1,14 @@
+1)Makes your program more readable and reduces redundancy(same code again and again)
+2)The function is executed when the function is called
+3)def functionname(arguments):
+4)function call is when a function needs to be executed you write the name of the function with the required arguements in it
+5)whatever assigned or defined inside the functions are local scope rest all the variables are said to exist in global scope or in the core memory
+6)The memory wipes these local variables and things when the function is done executing so that it has memory to spare
+7)a return value is a expression that returns back to the main block or the part of the program where the function was called from.When a expression is put with return it first gets evaluated then gets returned
+8)None is the return statment if nothing else is returned also called a void statment
+9)You can use the global keyword and then the variable name so that the function can refer to the variable which has been defined in the global statement
+10)None belongs to the "NoneType" which is one of its only type in python
+11)Imports the given module "areallyourpetsnamederic" 
+12)from spam import bacon
+13)Try except finally statments can be used to handle the errors so it doesnt just crash
+14)Try clause is the main block of code you will be trying to run the excpet statement is the code which you will write that if a error occurs in the given try clause the except statement will handle it
